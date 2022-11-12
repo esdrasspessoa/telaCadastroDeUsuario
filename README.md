@@ -37,8 +37,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
-- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL da solução: [https://github.com/esdrasspessoa/telaCadastroDeUsuario](https://github.com/esdrasspessoa/telaCadastroDeUsuario)
+- URL do site ao vivo: [https://esdrasspessoa.github.io/htmlCss/telaDeCadastroDeUsuario/](https://esdrasspessoa.github.io/htmlCss/telaDeCadastroDeUsuario/)
 
 ## Meu processo
 
