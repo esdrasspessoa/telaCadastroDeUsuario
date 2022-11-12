@@ -1,0 +1,46 @@
+@import 'base';
+@import 'extends';
+
+.section {
+
+    @extend %section;
+
+    .article { @extend %article;}
+
+    .formLogin {
+
+        width: 80%;
+
+        .information { @extend %information; }
+
+        .login { @extend %login; }
+
+        div {
+
+            @extend %div;
+
+            input { @extend %input; }
+
+            .input-iconError { @extend %input-iconError; }
+            
+            #error { @extend %error; }
+
+            span { @extend %span; }
+        }
+
+        button { @extend %button; }
+
+
+    }
+}
+
+@media (max-width:768px) {
+
+    .section {
+        flex-direction: column;
+        margin: 10px auto;
+        .article {
+            text-align: center;
+        }
+    }
+}
